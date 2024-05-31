@@ -1,0 +1,11 @@
+.background {
+    background: linear-gradient(#E7F0FF, #E8F1FF);
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.viewAllButton {
+    margin-top: 16px;
+}

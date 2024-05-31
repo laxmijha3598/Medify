@@ -1,0 +1,17 @@
+.form {
+    width: 100%;
+  }
+  
+  .stack {
+    width: 100%;
+    align-items: center;
+  }
+  
+  .textField {
+    flex-grow: 1;
+  }
+  
+  .button {
+    flex-shrink: 0;
+  }
+  

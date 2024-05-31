@@ -1,0 +1,27 @@
+.background {
+    background: linear-gradient(#E7F0FF, #E8F1FF);
+}
+
+.list {
+    font-size: 12px;
+}
+
+.listItemText {
+    font-size: 14px;
+    font-weight: 500;
+    color: #1B3C74;
+}
+
+.icon {
+    min-width: 32px;
+}
+
+/* Adjust font size for larger screens */
+@media (min-width: 768px) {
+    .list {
+        font-size: 18px;
+    }
+    .listItemText {
+        font-size: 18px;
+    }
+}

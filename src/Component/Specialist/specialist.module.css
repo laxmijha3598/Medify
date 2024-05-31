@@ -1,0 +1,18 @@
+.container {
+    padding: 16px 0;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 0 16px;
+}
+
+.swiper {
+    width: 100%;
+}
+
+.specialistCard {
+    display: flex;
+    justify-content: center;
+}
